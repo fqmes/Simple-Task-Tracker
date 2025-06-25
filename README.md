@@ -1,8 +1,6 @@
 # 📝 Simple Task Tracker
 
-This is a lightweight task management web application built using **Node.js** and **Express.js**. It allows users to add, view, complete, and delete tasks. Instead of using a database, it stores data in a local `tasks.json` file for simplicity.
-
-> 📁 Suitable for small projects or assignments requiring simple REST API and backend logic without frameworks like PHP or Python.
+This is a lightweight task management web application built using **Node.js** and **Express.js**. It allows users to add, view, complete, and delete tasks. it stores data in a local `tasks.json` file for simplicity.
 
 ---
 
@@ -59,8 +57,8 @@ task-tracker/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/task-tracker.git
-   cd task-tracker
+   git clone https://github.com/fqmes/Simple-Task-Tracker.git
+   cd Simple-Task-Tracker
    ```
 
 2. **Install Dependencies**
@@ -125,9 +123,6 @@ According to the assignment:
 
 ---
 
-## 📜 License
-
-This project is open-source and free to use for learning purposes.
 
 ---
 
