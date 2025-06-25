@@ -110,20 +110,6 @@ Tasks are saved immediately in `tasks.json`.
 
 ---
 
-## 📽️ Demo Video Requirements
-
-According to the assignment:
-
-- Must be under 2 minutes
-- .mp4 format
-- Explain:
-  - Framework setup (Node.js + Express)
-  - REST endpoints (`GET /tasks`, `POST /tasks`)
-  - Task operations (Add, View, Toggle, Delete)
-
----
-
-
 ---
 
 ## 👤 Author
