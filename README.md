@@ -110,8 +110,6 @@ Tasks are saved immediately in `tasks.json`.
 
 ---
 
----
-
 ## 👤 Author
 
 **Ahmed Saman**  
